@@ -2,10 +2,6 @@ body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
-.bg-primary {
-	background-color: #343a40!important;
-}
-
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
@@ -24,14 +20,14 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 
+.bg-primary {
+	background-color: #4c1e0c!important;
+}
+
 .text-primary {
-	color: #343a40!important;
+	color: #4c1e0c!important;
 }
 
 a {
-	color: #343a40!important;
+	color: #4028EB;
 }
-
-
-
-
