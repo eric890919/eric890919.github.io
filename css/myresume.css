@@ -2,6 +2,10 @@ body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
+.bg-primary {
+	background-color: #343a40!important
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
@@ -22,9 +26,6 @@ h1 .text-primary {
 
 
 
-.bg-primary {
-	background-color: #343a40!important
-}
 
 
 
