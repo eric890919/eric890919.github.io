@@ -1,12 +1,16 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
 }
 
 .bg-primary {
 	background-color: #4c1e0c!important;
 }
 
-
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
+}
 a {
 	color: #d03000;
 }
