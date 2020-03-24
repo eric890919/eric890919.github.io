@@ -3,7 +3,7 @@ body {
 }
 
 .bg-primary {
-	background-color: #343a40!important
+	background-color: #343a40!important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,20 +24,12 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 
-
-
-
-
-
-
 .text-primary {
-	color: #343a40!important
+	color: #343a40!important;
 }
 
-
-
 a {
-	color: #343a40!important
+	color: #343a40!important;
 }
 
 
