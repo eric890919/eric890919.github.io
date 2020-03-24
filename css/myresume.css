@@ -5,31 +5,7 @@ body {
 .bg-primary {
 	background-color: #4c1e0c!important;
 }
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Noto Sans TC', sans-serif;
-	text-transform: none;
-}
 
-.subheading {
-	font-family: 'Noto Sans TC', sans-serif;
-	font-size: 1.2rem;
-	text-transform: none;
-	letter-spacing: -0.05rem;
-}
-
-h1 .text-primary {
-	font-size: 3rem;
-	letter-spacing: -0.05rem;
-	line-height: 3rem;
-}
-
-
-
-
-
-.text-primary {
-	color: #4c1e0c!important;
-}
 
 a {
 	color: #4028EB;
