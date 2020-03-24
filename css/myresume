@@ -20,6 +20,8 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 
+
+
 .bg-primary {
 	background-color: #383d41!important
 	background-image: url("img/otis-redding.png");
