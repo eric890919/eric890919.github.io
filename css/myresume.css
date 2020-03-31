@@ -4,7 +4,8 @@ body {
 }
 
 .bg-primary {
-	background-color: #4c1e0c!important;
+	background-color: #0000eb!important;
+	background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
 }
 
 h1, h2, h3, h4, h5, h6 {
